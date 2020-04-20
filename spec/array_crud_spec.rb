@@ -64,11 +64,3 @@ describe "retrieve_last_element_from_array" do
     expect(retrieve_last_element_from_array(array)).to eq("arrays!")
   end
 end
-
-
-
-
-
-
-
-
